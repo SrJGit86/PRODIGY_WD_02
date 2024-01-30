@@ -1,48 +1,54 @@
-# Landing Page
+# Stop Watch
+
+
+A simple web-based stop watch that allows you to measure time with precision.
 
 ## Table of Contents
-- [Description](#Description)
-- [Features](#Features)
-- [Introduction](#Getting-Started)
-  - #### Prerequisites
-  - #### Installation
-- [Usage](#Usage)
-- [Built-With](#Built-With)
-- [Contact](#Contact)
-## Description
-This is the landing page for Dockyard, a digital product agency. The landing page showcases the company's services, work, and other relevant information.
+- [Demo](#demo)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Usage](#usage)
+- [Development](#development)
+
+## Demo
+
+Test the button in action here: [Live Demo](https://srjgit86.github.io/PRODIGY_WD_02/index.html)
+
+## Introduction
+
+This web application provides a stopwatch feature, allowing users to accurately measure elapsed time. It offers simple controls to start, stop, and reset the timer.
+
 
 ## Features
-- ### Responsive design
-- ### Navigation with logo
-- ### Sections for services, work, and more
-- ### Stylish animations and transitions
-- ### Integration with Font Awesome for icons
-## Getting Started
-### Prerequisites
-Make sure you have the following installed:
 
-- Web browser
-- Code editor (e.g., Visual Studio Code)
-### Installation
-1. Clone the repository:
-
-Copy code git clone git clone `https://github.com/SrJGit86/PRODIGY_WD_01.git`
-
-2. Open the project in your code editor.
-
-3. Open index.html in a web browser.
+- Start, stop, and reset functionality.
+- Accurate timekeeping with milliseconds precision.
+- User-friendly and visually appealing interface.
+- Background image for aesthetic appeal.
 
 ## Usage
-- Navigate through different sections using the navigation menu.
-- Explore the services offered by Dockyard.
-- Learn more about the company's work and clients.
-- Check out the blog posts and recent case studies.
-## Built With
-- HTML
-- CSS
-- JavaScript
 
-## Contact
-- Suraj Yadav
-- Email: syadav220899@gmail.com
+1. Open the [Stop Watch](./index.html) web page in your web browser.
+2. Click the "Start" button to begin the stopwatch.
+3. Click the "Stop" button to pause the stopwatch if needed.
+4. To reset the timer to zero, click the "Reset" button.
+5. The timer displays hours, minutes, seconds, and milliseconds.
+
+## Development
+
+This project was developed using HTML, CSS, and JavaScript. The key components of the code include:
+
+- HTML (`index.html`): Defines the structure of the web page.
+- CSS (`styles.css`): Provides styling and layout for the page.
+- JavaScript (`index.js`): Implements the stopwatch functionality.
+
+### Running Locally
+
+To run the project locally:
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a modern web browser.
+
+### Credits
+
+- Background image by Veri Ivanova on Unsplash.
